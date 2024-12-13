@@ -1,0 +1,14 @@
+/* styles.css */
+.custom-card-class {
+  border: none !important; /* Remove border from the card */
+  background-color: #f9f9f9;
+}
+
+.clerk-modal-root {
+  border: none !important; /* Ensure no border for modal root */
+  box-shadow: none; /* Optional: Remove shadow */
+}
+
+.clerk-modal-container {
+  border: none !important;
+}
